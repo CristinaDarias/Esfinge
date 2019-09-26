@@ -163,5 +163,5 @@ bot.on('message', (msg) => {
 // Obtienes el token secreto en la siguiente página:
 // https://discordapp.com/developers/applications/
 // application -> Bot -> Token -> "Click to Reveal Token"
-tokenbot = "NjA5MDc2NTQyMjg2NTk0MDc0.XUxdTQ.1G5-_111iLa3VrdPNiWeDYWqxkI";
+tokenbot = "NjA5MDc2NTQyMjg2NTk0MDc0.XUxdTQ.1G5-_111iLa3VrdPNiWeDYWqxkI"; // El token es solo de muestra. Está cambiado, no es el actual.
 bot.login(tokenbot);
